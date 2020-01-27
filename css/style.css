@@ -95,8 +95,8 @@ html {
 .contact-nav-list:hover,
 .contact-nav-list:focus {
     text-decoration: underline;
-    background-color: #8c8c8c;
-}
+/*    background-color: #8c8c8c;
+*/}
 
 .call::before {
     content: "";
